@@ -1,4 +1,4 @@
 # miPrimerRepo
 
 1. Doomsday
-2. Lex Luthor
+2. Clack Kent
